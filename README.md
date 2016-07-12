@@ -3,7 +3,7 @@ A Python Converter: Skimmer Server's Spots.txt to Cabrillo
 
 '''
 
-SPOTS to CABRILLO Converter (s2c.py). Jari Perkiömäki OH6BG
+SPOTS to CABRILLO Converter (s2c.py). (c) Jari Perkiömäki OH6BG
 
 This Python script converts the Skimmer Server's Spots.txt data file
 to CABRILLO, writing output to the corresponding CABRILLO file
