@@ -23,7 +23,9 @@ HOW TO USE THIS SCRIPT
 6. When done, the output file ("spots.log") can be found in the same folder.
 
 12 Jul 2016: Moved to GitHub
+
 10 Jul 2016. Added filtering of spots by CQ, CQ+DE, All; and by month and year
+
 08 Jul 2016. Initial release (unpublished).
 
 '''
