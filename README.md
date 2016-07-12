@@ -17,8 +17,8 @@ HOW TO USE THIS SCRIPT
 1. Place the Spots.txt file in a folder
 2. Put this script into the same folder
 3. Under *nix/Linux, make this script executable: chmod u+x s2c.py
-   Run at the command prompt: ./s2c.py &
-   Under Windows, double-clicking the icon of this file should launch
+4. Run at the command prompt: ./s2c.py &
+5. Under Windows, double-clicking the icon of this file should launch
    the Python interpreter by file association, and run the script.
 6. When done, the output file ("spots.log") can be found in the same folder.
 
