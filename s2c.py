@@ -73,7 +73,7 @@ kk = -1
 vv = -1
 filename = "Spots.txt"
 
-print("SPOTS to CABRILLO Converter, v0.1. 2016 OH6BG.\n" + 80 * '.')
+print("SPOTS to CABRILLO Converter, v0.1. (c) 2016 OH6BG.\n" + 80 * '.')
 while (int(sel) < 1 or int(sel) > 3):
     sel = input("Spots to include? 1) CQ, 2) CQ+DE, or 3) All: ")
 
